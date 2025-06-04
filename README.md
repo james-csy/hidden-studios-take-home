@@ -24,9 +24,7 @@ SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhY
 ### Installation & Running
 
 ```bash
-# Clone and navigate to the project
-cd user-profile-app
-
+# Clone project
 # Install dependencies
 npm install
 
